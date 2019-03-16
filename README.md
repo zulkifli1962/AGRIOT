@@ -1,1 +1,1 @@
-# AGRIOT
+# AGRIOT I am very new in this iot and interested to use lora for monitoring sensors for agriculture. Which is the best lora module to use? Is rakwireless module ok? Prefer to use lorawan gateway to connect to all the modules node.
